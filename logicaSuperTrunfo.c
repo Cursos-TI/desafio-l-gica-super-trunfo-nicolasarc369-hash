@@ -196,7 +196,7 @@ int main() {
       printf("1. Escolha uma carta (1 a 4)\n");
       printf("2. O computador escolherá outra carta aleatoriamente\n");
       printf("3. Vence quem tiver a MAIOR densidade populacional\n");
-      printf("4. Em caso de empate, ninguém ganha\n\n");
+      printf("4. Em caso de empate, ninguém ganha.\n\n");
       break;
 
     case 3:
